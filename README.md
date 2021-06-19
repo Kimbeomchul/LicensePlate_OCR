@@ -12,7 +12,7 @@
 
 
 ## Demo
-- img 폴더내 mp4 파
+- img 폴더내 mp4 파일 존재 
 - 데모 라쿤인식
 ![img](./img/lacoon.png)
 
