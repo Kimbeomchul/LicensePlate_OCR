@@ -12,12 +12,12 @@
 
 
 ## Demo
-
 <img src="img/capstone.gif" width="300">
 
 
 ## What We Used
 ![image](https://user-images.githubusercontent.com/54543148/122645007-ed148300-d152-11eb-8dd8-44ba183a00f9.png)
+![img](./img/used.png)
 
 
 ## Sample Screens
