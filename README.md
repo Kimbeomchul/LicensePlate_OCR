@@ -12,11 +12,11 @@
 
 
 ## Demo
-<img src="img/capstone.gif" width="300">
+- 데모 라쿤인식
+![mv](./img/lacoon.mp4)
 
 
 ## What We Used
-![image](https://user-images.githubusercontent.com/54543148/122645007-ed148300-d152-11eb-8dd8-44ba183a00f9.png)
 ![img](./img/used.png)
 
 
@@ -28,5 +28,5 @@
 | ![img3](/img/capstone_search.png) </br> search page | ![img4](/img/capstone_detail.png) </br> detail page |
 
 
-### Training Image Data
+### Training Image Data < 라쿤 & 러시아번호판 >
 - https://www.kaggle.com/ 
