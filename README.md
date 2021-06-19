@@ -13,19 +13,16 @@
 
 ## Demo
 - 데모 라쿤인식
-![mv](./img/lacoon.mp4)
+![img](./img/lacoon.png)
 
+- 차량 번호판인식
+![img](./img/car1.png)
+
+- 차량 OCR
+![img](./img/car2.png)
 
 ## What We Used
 ![img](./img/used.png)
-
-
-## Sample Screens
-
-|screens||
-|:---:|:----:|
-| ![img1](/img/capstone1.png) </br>main page | ![img2](/img/capstone_map.png) </br> google map |
-| ![img3](/img/capstone_search.png) </br> search page | ![img4](/img/capstone_detail.png) </br> detail page |
 
 
 ### Training Image Data < 라쿤 & 러시아번호판 >
