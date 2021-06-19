@@ -28,12 +28,12 @@
 
 ### Training Image Data < 라쿤 & 러시아번호판 >
 - 참고 
--https://www.kaggle.com/andrewmvd/car-plate-detection 
--https://www.kaggle.com/aritrag/license
--https://www.kaggle.com/pcmill/license-plates-on-vehicles
--https://www.kaggle.com/scholngusmaximus/numberplate-bounding-box-india-eu-brazil-us?select=Indian_eu_br_us_plates_compressed
--https://www.kaggle.com/ankitbarai507/indian-vehicle-license-plates
--https://www.kaggle.com/mrugankray/license-plates
--https://www.kaggle.com/ckay16/indian-number-plate-detection
--https://www.kaggle.com/xairete/car-plates-ocr
--Kaggle ▷ Datasets ▷ Search 'car plate'	https://www.kaggle.com/search?q=car+plate+in%3Adatasets
+- https://www.kaggle.com/andrewmvd/car-plate-detection 
+- https://www.kaggle.com/aritrag/license
+- https://www.kaggle.com/pcmill/license-plates-on-vehicles
+- https://www.kaggle.com/scholngusmaximus/numberplate-bounding-box-india-eu-brazil-us?select=Indian_eu_br_us_plates_compressed
+- https://www.kaggle.com/ankitbarai507/indian-vehicle-license-plates
+- https://www.kaggle.com/mrugankray/license-plates
+- https://www.kaggle.com/ckay16/indian-number-plate-detection
+- https://www.kaggle.com/xairete/car-plates-ocr
+- Kaggle ▷ Datasets ▷ Search 'car plate'	https://www.kaggle.com/search?q=car+plate+in%3Adatasets
