@@ -12,6 +12,7 @@
 
 
 ## Demo
+- img 폴더내 mp4 파
 - 데모 라쿤인식
 ![img](./img/lacoon.png)
 
