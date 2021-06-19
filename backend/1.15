@@ -1,0 +1,15 @@
+Requirement already satisfied: matplotlib in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (3.3.3)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from matplotlib) (1.3.1)
+Collecting numpy>=1.15
+  Using cached numpy-1.19.5-cp36-cp36m-win_amd64.whl (13.2 MB)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from matplotlib) (6.2.2)
+Requirement already satisfied: cycler>=0.10 in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from matplotlib) (0.10.0)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3 in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from matplotlib) (2.4.7)
+Requirement already satisfied: python-dateutil>=2.1 in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from matplotlib) (2.8.1)
+Requirement already satisfied: six in c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages (from cycler>=0.10->matplotlib) (1.15.0)
+Installing collected packages: numpy
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.14.4
+    Uninstalling numpy-1.14.4:
+      Successfully uninstalled numpy-1.14.4
+Successfully installed numpy-1.19.5

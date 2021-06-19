@@ -1,0 +1,7 @@
+Found existing installation: numpy 1.14.4
+Uninstalling numpy-1.14.4:
+  Would remove:
+    c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages\numpy-1.14.4.dist-info\*
+    c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\lib\site-packages\numpy\*
+    c:\users\hdp05\onedrive\desktop\git\2학기\kindergarten_daebo\backend\venv6\scripts\f2py.py
+Proceed (y/n)? 
